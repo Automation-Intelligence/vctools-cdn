@@ -9,7 +9,7 @@ Use the **Upload PLC Programs** drop zone to add one or more files for analysis.
 - You can **click to browse** or **drag and drop** files directly into the upload area.    
 - Currently, a maximum of **10 files** can be uploaded per audit.  
 
-> **Note:** Currently only Rockwell `.L5X` files are supported, additional PLC formats will be supported in the future.
+> **Note:** Currently only Rockwell `.L5X` files are supported. Additional PLC formats will be supported in the future.
 
 ## 2. Select Standards
 
@@ -23,7 +23,7 @@ Optionally expand the **Standards to Check** section to choose which standards w
 
 ## 3. Start the Audit
 
-The "Start Audit" button will show the number of credits that will be used for the audit. Once your files and standards are ready, click **Start Audit**.
+The **Start Audit** button will show the number of credits that will be used. Click to begin the audit.
  
 - A progress bar will appear in the **Recent Audits** panel showing real-time status.  
 - When complete, results will be displayed in the **Audit Results** table.
